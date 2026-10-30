@@ -4,6 +4,8 @@
 
 **Reverse Engineering • AI • Software Development**
 
+Proffesional Jobless (real)
+
 Building things, breaking things (for research), and understanding how software works.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyperioXHell)
